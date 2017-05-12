@@ -1,6 +1,4 @@
-# 01-Login
 
-## Running the Sample
 
 Install the dependencies.
 
